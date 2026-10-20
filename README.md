@@ -31,7 +31,9 @@ Velg `Aetteansikt-oppsett-….exe` for Windows eller `Aetteansikt-….dmg` for M
    appen. Når du er ferdig, trykker du **⏻** øverst til høyre i appen, eller
    lukker det svarte vinduet.
 
-   ![Det svarte vinduet og appen i nettleseren](bilder/windows-start.png)
+   ![Det svarte vinduet](bilder/windows-svart-vindu.png)
+
+   ![Appen i nettleseren](bilder/windows-appen.png)
 
 **Ny versjon:** last ned og kjør den nye installasjonsfila. Den erstatter den
 gamle, og bildene og navnene dine beholdes.
